@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<marcas>
+
+	<adicional>Seu público alvo tem em média 25 anos.</adicional>
+	<adicional>Manter contato com o setor de tecnologia pode agregar valor.</adicional>
+	<adicional>Associar-se ao setor petroleiro não representa uma grande vantagem.</adicional>
+	
+	<marca>
+		<nome>Coca-Cola</nome>
+		<setor>alimentosebebidas</setor>
+		<sub>bebidas</sub>
+		<imagem>image/logos/Coca-Cola.jpg</imagem>
+		<icone>image/icone/Coca-Cola.jpg</icone>
+		<correlacao>20</correlacao>
+		<info>Coca-Cola é a marca de um refrigerante com sabor de noz-de-cola pertencente à The Coca-Cola Company que comercializa em mais de 200 países.</info>
+	</marca>
+	
+	<marca>
+		<nome>Fanta</nome>
+		<setor>alimentosebebidas</setor>
+		<sub>bebidas</sub>
+		<imagem>image/logos/Fanta.jpg</imagem>
+		<icone>image/icone/Fanta.jpg</icone>
+		<correlacao>40</correlacao>
+		<info>Fanta é uma marca de refrigerantes, que detém uma linha variada de produtos e que pertence à The Coca-Cola Company. Criada e lançada na Alemanha Nazi, durante a Segunda Guerra Mundial, atualmente é comercializada em 187 países. </info>
+	</marca>
+	
+	<marca>
+		<nome>Petrobras</nome>
+		<setor>petroleiro</setor>
+		<sub></sub>
+		<imagem>image/logos/Petrobras.jpg</imagem>
+		<icone>image/icone/Petrobras.jpg</icone>
+		<correlacao>10</correlacao>
+		<info>Petróleo Brasileiro S.A. ou simplesmente Petrobras é uma empresa de capital aberto, cujo acionista majoritário é o Governo do Brasil. É, portanto, uma empresa estatal de economia mista.</info>
+	</marca>
+	
+	<marca>
+		<nome>Chevron</nome>
+		<setor>energetico</setor>
+		<sub></sub>
+		<imagem>image/logos/Chevron.jpg</imagem>
+		<icone>image/icone/Chevron.jpg</icone>
+		<correlacao>23</correlacao>
+		<info>A Chevron, com sede nos Estados Unidos, é uma das grandes empresas mundiais do ramo energético, especialmente petrolífero.</info>
+	</marca>
+	
+	<marca>
+		<nome>Vale</nome>
+		<setor>mineracao</setor>
+		<sub></sub>
+		<imagem>image/logos/Vale.jpg</imagem>
+		<icone>image/icone/Vale.jpg</icone>
+		<correlacao>70</correlacao>
+		<info>A Vale é uma das maiores mineradoras do mundo. Brasileira, criada para a exploração das minas de ferro na região de Itabira, no estado de Minas Gerais em 1942 no governo Getúlio Vargas, a Vale é hoje uma empresa privada, de capital aberto, com sede no Rio de Janeiro.</info>
+	</marca>
+	
+	<marca>
+		<nome>Sony</nome>
+		<setor>tecnologico</setor>
+		<sub>eletronico</sub>
+		<imagem>image/logos/Sony.jpg</imagem>
+		<icone>image/icone/Sony.jpg</icone>
+		<correlacao>-9</correlacao>
+		<info>A Sony Corporation é uma multinacional japonesa sendo o quinto maior conglomerado de mídia do planeta.</info>
+	</marca>
+	
+	<marca>
+		<nome>Flickr</nome>
+		<setor>comunicacao</setor>
+		<sub>redesocial</sub>
+		<imagem>image/logos/Flickr.jpg</imagem>
+		<icone>image/icone/Flickr.jpg</icone>
+		<correlacao>-30</correlacao>
+		<info>O Flickr é um site da web de hospedagem e partilha de imagens fotográficas (e eventualmente de outros tipos de documentos gráficos, como desenhos e ilustrações), além de permitir novas maneiras de organizar as fotos e vídeos</info>
+	</marca>
+	
+</marcas>
